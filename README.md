@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @macrophage666
 - 👀 I’m interested in applying scRNA seq and multiomics to understand the mechanism of SIV/HIV infection in the brain
 - 🌱 I’m currently learning the bioinformatics/R and Python programming/machine learning
-- 📫 If you are also in this field, please reach me through the email: xxu871895@gmail.com
-- I will share the code for how I process the data by using the cellRanger pipelines and how I do the downstream analysis by using Seurat. 
+- 📫 If you are also in this field and want to connect, please reach me through the email: xxu871895@gmail.com
+- I will share the code for different bioinformatics tools here. 
